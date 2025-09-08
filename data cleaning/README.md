@@ -18,7 +18,7 @@ A simple Python script that cleans CSV files using Pandas.
    python excel_cleaner.py
 
 Before Cleaning:
-![Before Cleaning](data%20cleaning/before-data-cleaning.png)
+![Before Cleaning](before-data-cleaning.png)
 
 After Cleaning:
-![After Cleaning](data%20cleaning/after-data-cleaning.png)
+![After Cleaning](after-data-cleaning.png)
