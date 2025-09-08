@@ -1,16 +1,19 @@
 ID,Name,Age,City
 1,Alice,25,New York
 2,Bob,30,Los Angeles
+2,Bob,30,Los Angeles
 3,Charlie,35,Chicago
-4,Alice,28,Boston
+4,
 5,Eve,22,Miami
 6,Bob,30,Houston
 7,Frank,40,Seattle
 8,Grace,29,Denver
 9,Hannah,31,Austin
+9,Hannah,31,Austin
 10,Eve,22,Miami
 11,Ivan,36,Dallas
 12,Jack,33,Phoenix
+13,Charlie,35,Chicago
 13,Charlie,35,Chicago
 14,Kate,27,Portland
 15,Leo,41,San Diego
@@ -19,3 +22,9 @@ ID,Name,Age,City
 18,Oscar,39,Atlanta
 19,Paul,34,Detroit
 20,Mia,23,San Jose
+21,Grace,29,Denver
+22,Alice,25,New York
+23,Eve,22,Miami
+24,Hannah,31,Austin
+24,Hannah,31,Austin
+23,Eve,22,Miami
