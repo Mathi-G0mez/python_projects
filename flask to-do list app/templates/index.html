@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>To-Do List</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"> -->
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+<main>
+    <div class="to-do-list-app">
+        <h1>My To-Do List</h1>
+        <form method="POST" class="input">
+                <input type="text" name="content" id="task" placeholder="Enter a task" required>
+                <button type="submit">Add</button>
+            
+        </form>
+        <h2>List</h2>
+        <ul id="tasklist">
+            <li>Do coding</li>
+            <li>Cooking</li>
+            <li>e</li>
+        </ul>
+    </div>
+    </main>
+</body>
+</html>
