@@ -24,4 +24,4 @@ A Python script that organizes files into folders using basic Python modules.
    python file_organizer.py
 
 File Organizer:
-![File Organizer GUI](file-organize-gui.png)
+![File Organizer GUI](file-organizer-gui.png)
